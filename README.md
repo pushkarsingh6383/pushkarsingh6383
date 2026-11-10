@@ -1,16 +1,50 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**pushkarsingh6383/pushkarsingh6383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=190&section=header&text=Pushkar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" width="100%" />
 
-Here are some ideas to get you started:
+### 👋 Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 👨‍💻 About Me
+
+Hi! I'm **Pushkar**, a Computer Science Engineering student interested in software development and problem-solving.
+
+- 🎓 CSE Student
+- 💻 Learning C, C++, Java and Python
+- 🌐 Familiar with HTML, CSS and JavaScript
+- 🧠 Exploring Data Structures & Algorithms
+- 🚀 Building projects and learning new technologies
+
+## 🛠️ Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+## 📌 My Projects
+
+- 🎮 [Guessing Number](https://github.com/pushkarsingh6383/Guessing-Number)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pushkarsingh6383&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsingh6383&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Keep Learning. Keep Building. 🚀**
+
+</div>
