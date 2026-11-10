@@ -48,3 +48,21 @@ Hi! I'm **Pushkar**, a Computer Science Engineering student interested in softwa
 **Keep Learning. Keep Building. 🚀**
 
 </div>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pushkar-singh-b89795398">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pushkarsingh0407">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://resilient-bombolone-317033.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  </a>
+</p>
+
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/pushkar-singh-b89795398)
+- 📸 Instagram: [Follow me](https://www.instagram.com/pushkarsingh0407)
+- 🌐 Portfolio: [Visit my website](https://resilient-bombolone-317033.netlify.app/)
