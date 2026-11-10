@@ -66,3 +66,21 @@ Hi! I'm **Pushkar**, a Computer Science Engineering student interested in softwa
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/pushkar-singh-b89795398)
 - 📸 Instagram: [Follow me](https://www.instagram.com/pushkarsingh0407)
 - 🌐 Portfolio: [Visit my website](https://resilient-bombolone-317033.netlify.app/)
+
+- 
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pushkarsingh6383&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pushkarsingh6383&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
