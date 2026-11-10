@@ -84,3 +84,13 @@ Hi! I'm **Pushkar**, a Computer Science Engineering student interested in softwa
 <img src="https://komarev.com/ghpvc/?username=pushkarsingh6383&color=blue&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkarsingh6383/pushkarsingh6383/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkarsingh6383/pushkarsingh6383/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pushkarsingh6383/pushkarsingh6383/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
